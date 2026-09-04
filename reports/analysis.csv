@@ -1,0 +1,60 @@
+team,matches
+"Mumbai Indians",285
+"Sunrisers Hyderabad",280
+"Royal Challengers Bangalore",279
+"Delhi Capitals",276
+"Punjab Kings",272
+"Kolkata Knight Riders",272
+"Chennai Super Kings",260
+"Rajasthan Royals",245
+"Gujarat Titans",69
+"Lucknow Super Giants",66
+match_winner,wins
+"Mumbai Indians",155
+"Chennai Super Kings",146
+"Royal Challengers Bangalore",139
+"Kolkata Knight Riders",137
+"Sunrisers Hyderabad",132
+"Punjab Kings",130
+"Delhi Capitals",126
+"Rajasthan Royals",125
+"Gujarat Titans",42
+"Lucknow Super Giants",33
+toss_decision,matches
+bat,412
+field,800
+same_winner
+626
+player_of_match,awards
+"AB de Villiers",25
+"CH Gayle",22
+"RG Sharma",21
+"V Kohli",20
+"MS Dhoni",18
+"DA Warner",18
+"SP Narine",17
+"RA Jadeja",17
+"KL Rahul",17
+"YK Pathan",16
+city,matches
+Mumbai,185
+Kolkata,104
+Delhi,101
+Chennai,95
+Hyderabad,87
+Jaipur,66
+Bangalore,65
+Chandigarh,61
+Pune,51
+,51
+match_winner,biggest_win
+"Mumbai Indians",146.0
+"Royal Challengers Bangalore",144.0
+"Kolkata Knight Riders",140.0
+"Sunrisers Hyderabad",118.0
+"Punjab Kings",111.0
+"Rajasthan Royals",105.0
+"Chennai Super Kings",103.0
+"Delhi Capitals",97.0
+"Lucknow Super Giants",75.0
+"Gujarat Titans",62.0
