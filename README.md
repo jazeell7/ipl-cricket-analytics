@@ -1,15 +1,32 @@
 # IPL Cricket Analytics 🏏
 
 ## 📊 Project Overview
-SQL + Python analysis on IPL dataset using SQLite.
+This project analyzes IPL (Indian Premier League) data using SQL and Python.
 
 ## 🔧 Tools Used
 - SQLite
 - Python (Pandas, Matplotlib)
 
-## 📁 Files
-- sql/practice/ → SQL queries
-- reports/ → CSV outputs + graphs
+## 📁 Project Structure
+```
+ipl-cricket-analytics/
+│── data/raw/ipl.db
+│── sql/practice/
+│   ├── analysis.sql
+│   ├── advanced.sql
+│   ├── final.sql
+│   ├── plot.sql
+│── reports/
+│   ├── analysis.csv
+│   ├── advanced.csv
+│   ├── final.csv
+│   ├── plot.csv
+│   ├── teams_matches.png
+│   ├── team_wins.png
+│   ├── insights.txt
+│── plot.py
+│── README.md
+```
 
 ## 📊 Key Insights
 - Mumbai Indians have most wins
@@ -18,5 +35,19 @@ SQL + Python analysis on IPL dataset using SQLite.
 - AB de Villiers has most awards
 
 ## 📈 Visualizations
+
+### Matches Played by Teams
 ![Matches](reports/teams_matches.png)
+
+### Wins by Teams
 ![Wins](reports/team_wins.png)
+
+## ▶️ How to Run
+
+```bash
+# Run SQL queries
+sqlite3 -header -csv data/raw/ipl.db < sql/practice/analysis.sql > reports/analysis.csv
+
+# Generate graphs
+python plot.py
+```
