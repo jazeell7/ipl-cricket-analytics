@@ -15,3 +15,9 @@ Mumbai
 
 BIGGEST WIN:
 Mumbai Indians (146 runs)
+
+1. Mumbai Indians and CSK dominate wins consistently.
+2. Toss has moderate impact (~50-55% win rate).
+3. Batting second (chasing) seems slightly more successful.
+4. Top players like AB de Villiers, Gayle dominate awards.
+5. Certain venues host majority of matches (Eden Gardens, Wankhede).
